@@ -1,1 +1,1 @@
-# progintro
+Text ze cviceni
